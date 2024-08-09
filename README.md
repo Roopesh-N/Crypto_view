@@ -43,7 +43,8 @@ Submit a pull request.
 
 ### Key features of the application include:
 
-Live Cryptocurrency Prices: Stay up-to-date with the latest prices for your favorite cryptocurrencies.
-Trending Cryptos: Discover which cryptocurrencies are making waves in the market.
-Historical Data: View and analyze historical price data through interactive charts, allowing for a deeper understanding of market dynamics.
-Responsive Design: Enjoy a consistent and optimal viewing experience on any device, from desktops to smartphones.
+1. Live Cryptocurrency Prices: 
+    Stay up-to-date with the latest prices for your favorite cryptocurrencies.
+2. Trending Cryptos: Discover which cryptocurrencies are making waves in the market.
+3. Historical Data: View and analyze historical price data through interactive charts, allowing for a deeper understanding of market dynamics.
+4. Responsive Design: Enjoy a consistent and optimal viewing experience on any device, from desktops to smartphones.
