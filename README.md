@@ -8,7 +8,15 @@ A brief description of what your project does.
 - [Contributing](#contributing)
 
 ### Screenshots
+1. Homepage:
 <img src="./Images/homepage.png" alt="homepage">
+
+2.  CoinView:
+<img src="./Images/coinView.png" alt="coinPage">
+
+3. Pagination:
+<img src="./Images/Pagination.png" alt="Pagination">
+
 
 
 ### Prerequisites
