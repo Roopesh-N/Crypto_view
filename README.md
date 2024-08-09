@@ -1,4 +1,4 @@
-# Project Name
+# Crypto view
 Crypto Viewer is a powerful and responsive React application designed to provide users with real-time cryptocurrency data at their fingertips. The app offers a comprehensive overview of the cryptocurrency market by displaying current prices, showcasing trending cryptocurrencies, and visualizing historical data through interactive charts.
 
 
